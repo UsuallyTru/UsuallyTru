@@ -1,4 +1,4 @@
-# Hi, I'm <TU NOMBRE> 👋
+# Hi, I'm <Alex> 👋
 
 <p align="center">
   <b>Computer Engineering student focused on Cybersecurity</b><br/>
@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="<TU_LINK_LINKEDIN>"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="mailto:<TU_MAIL>"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" /></a>
-  <a href="<TU_LINK_PORTFOLIO_O_CV>"><img src="https://img.shields.io/badge/Portfolio-View-success?logo=githubpages" /></a>
+  <a href="<https://www.linkedin.com/in/alex-nicolas-mendez-69a885362/>"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <a href="mailto:<alex.n.mendez03@gmail.com>"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" /></a>
+  <!-- <a href="<cv pendiente>"><img src="https://img.shields.io/badge/Portfolio-View-success?logo=githubpages" /></a> -->
 </p>
 
 ---
@@ -25,6 +25,7 @@
 ---
 
 ## 🧰 Skills
+
 ### Languages & Development
 ![Python](https://img.shields.io/badge/Python-000?logo=python)
 ![Java](https://img.shields.io/badge/Java-000?logo=openjdk)
@@ -33,12 +34,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3)
 
-### Databases & Backend
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
 ![Supabase](https://img.shields.io/badge/Supabase-000?logo=supabase)
 
-### OS / Networking / Cloud
+### OS / Cloud
 ![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
 ![AWS](https://img.shields.io/badge/AWS-000?logo=amazonaws)
 
