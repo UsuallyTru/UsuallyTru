@@ -1,4 +1,4 @@
-# Hi, I'm <Alex> 👋
+# Hi, I'm Alex 👋
 
 <p align="center">
   <b>Computer Engineering student focused on Cybersecurity</b><br/>
